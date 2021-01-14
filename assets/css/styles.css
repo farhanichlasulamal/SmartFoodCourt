@@ -1,0 +1,217 @@
+.quantityForm {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 10px 0px; 
+}
+
+.quantityForm input {
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  color: #43484D;
+  font-weight: 300;
+}
+
+input.qtyplus {
+	width: 40px;
+	height: 40px;
+	background-color: #E1E8EE;
+	border-radius: 6px;
+	cursor: pointer;
+	padding: 15px;
+	margin-left: auto;
+}
+input.qtyminus {
+	width: 40px;
+	height: 40px;
+	background-color: #E1E8EE;
+	border-radius: 6px;
+	cursor: pointer;
+	padding: 15px;
+	margin-right: auto;
+}
+
+input.qtyarea {
+	width: 40px;
+}
+
+.margintop {
+	margin-top: 60px;
+}
+
+.mainbackground {
+	background-color: #EEF4F7;
+    color:#313437;
+	padding:40px 0px;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+}
+
+.cart {
+	padding: 40px;
+	background-color: white;
+	border-radius: 14px;
+}
+
+.cart h1,h2,h3,h4,h5,h6{
+	font-weight: bold;
+	color: inherit;
+}
+
+.centered {
+	display: flex;
+}
+
+.btn {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.btn-width {
+	width: 100px;
+}
+
+.btn-superwidth {
+	width: 200px;
+}
+
+.btn-double {
+	margin: 0px; 
+}
+
+.btn-emas {
+	background-color: #eeb549;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+.btn-pesan {
+	background-color:#eeb549;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	width: 120px;
+	margin:10px auto;
+}
+
+.btn-pesan:hover, .btn-emas:hover {
+	background-color: #313437;
+	color: white;
+}
+
+.table{
+	color: inherit;
+}
+
+.center{
+	text-align: center;
+}
+
+.content{
+	margin-bottom: 20px;
+}
+
+.content hr{
+	margin: 0px;
+	border-color: lightgrey;
+}
+
+.half{
+	display: flex;
+}
+
+.leftpanel{
+	width: 75%;
+}
+
+.rightpanel{
+	width: 25%;
+}
+
+.leftpanel, .rightpanel{
+	padding: 5px;
+}
+
+@media (max-width:991px) {
+  .half{
+  	display: inherit;
+  }
+  .leftpanel, .rightpanel{
+  	width: 100%;
+  }
+}
+
+.backButton{
+	padding: 5px;
+	color: white;
+}
+
+.gap{
+ 	margin: 10px;
+}
+
+.titlePanel, .titlePanel hr{
+	color: inherit;
+	border-color: lightgrey;
+}
+
+.forEditForm {
+	width: 50%;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.jumbotron{
+	letter-spacing: 3px;
+	padding:150px 100px;
+	font-family: Montserrat; 
+}
+
+.borderjumbotron{
+	border-style: solid;
+  	border-width: 3px;
+  	border-color: #fff;
+}
+
+.bg-img-user {
+  background-image: url("../img/UserPage.jpg");
+  min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-img-cart {
+  background-image: url("../img/UserPage2.jpg");
+  min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-img-admin {
+  background-image: url("../img/KasirPage.jpg");
+  min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bg-img-tenant {
+  background-image: url("../img/Tenant.jpg");
+  min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
