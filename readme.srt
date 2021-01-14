@@ -68,3 +68,24 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+**********
+Screenshot
+**********
+
+Customer Page:
+
+![](https://github.com/farhanichlasulamal/SmartFoodCourt/blob/main/screenshot/customer%20page%20(1).png | width=500)
+![](https://github.com/farhanichlasulamal/SmartFoodCourt/blob/main/screenshot/customer%20page%20(2).png | width=500)
+
+--------------------------------------------------------------------------------------
+Tenant Page:
+
+![](https://github.com/farhanichlasulamal/SmartFoodCourt/blob/main/screenshot/tenant%20page%20(1).png | width=500)
+![](https://github.com/farhanichlasulamal/SmartFoodCourt/blob/main/screenshot/tenant%20page%20-%20menu.png | width=500)
+
+--------------------------------------------------------------------------------------
+Cashier Page:
+
+![](https://github.com/farhanichlasulamal/SmartFoodCourt/blob/main/screenshot/cashier%20page.png | width=500)
+![](https://github.com/farhanichlasulamal/SmartFoodCourt/blob/main/screenshot/cashier%20page%20-%20payment.png | width=500)
